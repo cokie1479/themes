@@ -40,7 +40,7 @@ background: linear-gradient(139deg, rgba(156,23,167,1) 0%, rgba(0,123,252,1) 23%
 
   /* BACKGROUND */
   --background: rgb(156,23,167); /* Background color */
-  --backgroundImage: background: linear-gradient(139deg, rgba(156,23,167,1) 0%, rgba(0,123,252,1) 23%, rgba(164,38,231,1) 38%, rgba(199,42,19,1) 70%, rgba(0,22,255,1) 100%); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --backgroundImage:linear-gradient(139deg, rgba(156,23,167,1) 0%, rgba(0,123,252,1) 23%, rgba(164,38,231,1) 38%, rgba(199,42,19,1) 70%, rgba(0,22,255,1) 100%); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
   --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
   --backgroundSize: cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
   --backgroundRepeat: no-repeat; /* if you want the image to repeat | Google "css background repeat" */
